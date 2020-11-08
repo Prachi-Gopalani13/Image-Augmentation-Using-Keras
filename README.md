@@ -10,3 +10,5 @@ About the image augmentation API provide by Keras and how to use it with your mo
 3. How to augment data with random rotations, shifts and flips.
 4. How to save augmented image data to disk.
 
+
+![](Output/cat.JPG) , ![](Output/dog.JPG)
