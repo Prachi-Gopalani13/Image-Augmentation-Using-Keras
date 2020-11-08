@@ -11,4 +11,4 @@ About the image augmentation API provide by Keras and how to use it with your mo
 4. How to save augmented image data to disk.
 
 
-![](Output/aug_3945_2813.png) , ![](Output/aug_14738_6276.png)
+![](Output/aug_3945_2813.png)    ![](Output/aug_14738_6276.png)
