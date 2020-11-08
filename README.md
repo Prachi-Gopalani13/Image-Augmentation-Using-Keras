@@ -10,5 +10,13 @@ About the image augmentation API provide by Keras and how to use it with your mo
 3. How to augment data with random rotations, shifts and flips.
 4. How to save augmented image data to disk.
 
+### Ouput Snips
 
-![](Output/aug_3945_2813.png)    ![](Output/aug_14738_6276.png)
+#### ZCA whitening
+![](Output/ZCA.jpg)
+
+#### Random Rotations
+![](Output/Random Rotations.jpg)  
+
+#### Random Flips
+![](Output/Random Flips.jpg)
