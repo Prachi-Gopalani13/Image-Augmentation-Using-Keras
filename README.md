@@ -14,9 +14,3 @@ About the image augmentation API provide by Keras and how to use it with your mo
 
 #### ZCA whitening
 ![](Output/ZCA.JPG)
-
-#### Random Rotations
-![](Output/Random Rotation.JPG)  
-
-#### Random Flips
-![](Output/Random Flips.JPG)
