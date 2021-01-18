@@ -1,4 +1,6 @@
 # Image-Augmentation-Using-Keras
+### Detailed Expalnation:
+https://medium.com/analytics-vidhya/image-augmentation-using-keras-99072b490c72
 
 ### Data Used: 
 MNIST handwritten digit recognition task
